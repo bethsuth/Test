@@ -1,9 +1,11 @@
-.btn {
+.btn .btn-link{
 	background-color: #00BF6A;
 	color: #fff;
 	border: none;
+	text-align: center;
 }
 
 h1 {
-  color: #3B183D;
+	text-align: center;
+ 	color: #47154A;
 }
