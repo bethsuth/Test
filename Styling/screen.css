@@ -1,7 +1,7 @@
 .btn .btn-link {
-	background-color: #00BF6A;
-	color: #fff;
-	border: none;
+	background-color: #00BF6A ! important;
+	color: #fff ! important;
+	border: none ! important;
 }
 
 h1 {
