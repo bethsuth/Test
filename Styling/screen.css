@@ -2,6 +2,7 @@
 	background-color: #00BF6A;
 	color: #000;
 	border: 1px solid #85FFC9;
+	border-radius: 10%;
 	text-align: center;
 	padding: 15px;
 }
@@ -10,6 +11,7 @@
 	background-color: #85FFC9;
 	color: #000;
 	border: 1px solid #fff;
+	border-radius: 10%;
 	text-align: center;	
 }
 
