@@ -1,5 +1,5 @@
 .btn {
-	background-color: #00B263;
+	background-color: #84E3B9;
 	color: #000;
 	border: 1px solid #fff;
 	-webkit-border-radius: 5px;
@@ -10,7 +10,7 @@
 }
 
 .btn:hover {
-	background-color: #84E3B9;
+	background-color: #ADE3CB;
 	color: #000;
 	border: 1px solid #fff;
 	-webkit-border-radius: 5px;
