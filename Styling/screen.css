@@ -2,6 +2,8 @@
 	background-color: #00BF6A;
 	color: #000;
 	border: 1px solid #85FFC9;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
 	border-radius: 50px;
 	text-align: center;
 	padding: 15px;
@@ -11,6 +13,8 @@
 	background-color: #85FFC9;
 	color: #000;
 	border: 1px solid #fff;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
 	border-radius: 50px;
 	text-align: center;	
 }
