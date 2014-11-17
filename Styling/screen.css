@@ -1,8 +1,16 @@
-.btn .btn-link{
+.btn {
 	background-color: #00BF6A;
 	color: #fff;
 	border: none;
 	text-align: center;
+	padding: 15px;
+}
+
+.btn:hover {
+	background-color: #90EE90;
+	color: #fff;
+	border: none;
+	text-align: center;	
 }
 
 h1 {
